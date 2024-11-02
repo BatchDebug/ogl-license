@@ -1,14 +1,13 @@
-# Open Guard License 2.0
+# Open Guard License (OGL) Version 2.0
 ## Overview
 | Provision                        | Allowed / Required                                   | Limited / Prohibited                                         |
 |----------------------------------|------------------------------------------------------|--------------------------------------------------------------|
 | **Open Source Requirement**      | Source code must be public and open source           | Cannot be used for closed-source projects                    |
-| **Use Rights**                   | Use for lawful, ethical, and authorized purposes     | Unauthorized, destructive, or harmful uses prohibited        |
-| **Modification Rights**          | Modifications allowed if documented and marked       | Must comply with ethical use and security standards          |
+| **Use Rights**                   | Lawful, ethical, and responsible use encouraged      | Harmful, malicious, or illegal uses discouraged              |
+| **Modification Rights**          | Modifications allowed if documented and marked       | N/A                                                          |
 | **Distribution Rights**          | Distribution allowed with original license and attribution | Cannot remove license; must indicate modifications        |
-| **Prohibited Uses**              | Ethical hacking, authorized penetration testing      | No use for military, invasive surveillance, or illegal activities |
-| **Ethical Use Requirement**      | Must have explicit authorization from system owner   | Unauthorized use or unsanctioned hacking strictly prohibited |
-| **Security Standards**           | Adhere to high-security practices in contributions   | Contributions with vulnerabilities or malicious code         |
+| **Responsible Use**              | Encourage ethical use, transparency, and accountability | Avoid harmful, privacy-invasive, or unethical applications  |
+| **Security Standards**           | Follow secure coding practices in contributions      | Contributions with vulnerabilities or malicious code         |
 | **Attribution Requirement**      | Must credit original creators visibly                | N/A                                                          |
 | **Acknowledgment of Modifications** | Modifications must be labeled with description of changes | N/A                                                     |
 | **Compliance with Third-Party Licenses** | Must follow terms of third-party libraries         | Cannot violate third-party licenses                          |
@@ -18,11 +17,9 @@
 | **Governing Law**                | Governed by creator’s jurisdiction                   | Legal disputes handled in that jurisdiction                  |
 | **Future Versions**              | May use this or future OGL versions                  | Future rights do not apply retroactively                     |
 | **User Responsibility**          | User responsible for lawful and ethical compliance   | Creators not liable for misuse                               |
-| **Compliance with Community Standards** | Encouraged to follow ethical hacking community standards | N/A                                                     |
+| **Compliance with Community Standards** | Encouraged to follow responsible open-source community standards | N/A                                        |
 ## License
-### Open Guard License (OGL) Version 2.0
-
-This Open Guard License (OGL) Version 2.0 governs the use, modification, and distribution of software (the "Software") released under this license. By using, modifying, copying, or distributing the Software, you agree to comply with the terms outlined in this license. This version strengthens protections against misuse and mandates responsible and ethical use.
+This Open Guard License (OGL) Version 2.0 governs the use, modification, and distribution of software (the "Software") released under this license. By using, modifying, copying, or distributing the Software, you agree to comply with the terms outlined in this license. This version emphasizes responsible use, security, and compliance while supporting open-source collaboration.
 
 ### 1. General Open Source Requirement
 
@@ -41,10 +38,10 @@ The creators and contributors shall not be liable for any damages arising from t
 ### 3. Grant of Rights
 
 3.1 **Right to Use**:  
-You are granted a worldwide, royalty-free, non-exclusive license to use the Software for lawful, ethical, and open-source purposes. This license is subject to the ethical guidelines in Section 5.
+You are granted a worldwide, royalty-free, non-exclusive license to use the Software for any lawful and open-source purpose. This license is subject to the responsible-use guidelines in Section 5.
 
 3.2 **Right to Modify**:  
-You are permitted to modify the Software and create derivative works, provided that all modifications are clearly marked, documented, and made available under this license. Modifications must comply with the ethical use restrictions in Section 5.
+You are permitted to modify the Software and create derivative works, provided that all modifications are clearly marked, documented, and made available under this license.
 
 3.3 **Right to Distribute**:  
 You may distribute copies of the original and modified Software under the following conditions:
@@ -52,26 +49,21 @@ You may distribute copies of the original and modified Software under the follow
    - Modifications must be clearly marked and acknowledged, with a description of changes.
    - Any distributed version must retain this license to ensure it remains open and accessible.
 
-### 4. Prohibited and Restricted Uses
+### 4. Responsible Use Guidelines
 
-The Software must not be used for any military, destructive, illegal, or unethical purposes, including but not limited to:
-   - **Weapons Development**: Development, testing, or deployment of weaponry or related technologies.
-   - **Invasive Surveillance**: Any form of unauthorized data collection or surveillance.
-   - **Malicious Activity**: Hacking, intrusion, or penetration testing without explicit authorization from the owner of the target system.
-   - **Privacy Invasion**: Unauthorized access or monitoring of individuals' private data or systems.
+4.1 **Ethical and Lawful Use**:  
+The Software is intended for lawful and ethical applications. The creators encourage users to avoid deploying the Software in ways that could cause harm or violate ethical standards, such as privacy invasion, unauthorized access, or malicious activity.
 
-Violation of these restrictions may result in the immediate termination of rights under this license (see Section 8).
+4.2 **Transparency and Accountability**:  
+Users should document and clarify intended uses when distributing the Software, ensuring transparency for other users and contributors.
 
-### 5. Ethical Use Requirements
+### 5. Security Standards
 
-5.1 **Authorized Use Only**:  
-The Software may only be used for testing and securing systems with explicit, documented authorization from the system owner. Unauthorized use, even for "ethical" purposes, is strictly prohibited.
+5.1 **Security Best Practices**:  
+Contributors must follow high-security standards to prevent vulnerabilities, maintain software integrity, and avoid introducing malicious code. Any insecure contributions may be removed, and contributors may be subject to rights revocation.
 
-5.2 **Security Standards**:  
-Users and contributors must adhere to best security practices to avoid introducing vulnerabilities or malicious code. Any modifications or contributions must be carefully reviewed to maintain the Software's integrity.
-
-5.3 **Transparency and Accountability**:  
-All contributions and distributions must include documentation clarifying intended ethical uses and discourage any form of misuse. The documentation should be visible and clear to all users.
+5.2 **User Responsibility for Security**:  
+Users are responsible for implementing the Software securely in their environment and ensuring that any changes or deployments do not compromise system integrity or data security.
 
 ### 6. Attribution and Modification Acknowledgment
 
@@ -89,8 +81,8 @@ If the Software incorporates third-party components or libraries, you are respon
 
 8.1 **Conditions of Termination**:  
 Your rights under this license will automatically terminate if you:
-   - Violate any terms in this license, particularly the ethical and authorized use guidelines.
-   - Distribute or use the Software in ways that contravene applicable laws or ethical standards.
+   - Violate any terms in this license, particularly the responsible-use guidelines.
+   - Distribute or use the Software in ways that contravene applicable laws.
 
 Upon termination, you must cease using, distributing, and modifying the Software and destroy all copies in your possession.
 
@@ -124,4 +116,4 @@ This license constitutes the entire agreement between you, the user, and the cre
 You are solely responsible for ensuring your use of the Software complies with all applicable laws and ethical standards. The creators and contributors bear no liability for misuse.
 
 13.2 **Compliance with Community Standards**:  
-Users are encouraged to follow the ethical standards and practices upheld by the broader ethical hacking community.
+Users are encouraged to follow responsible standards and practices upheld by the broader open-source community.
