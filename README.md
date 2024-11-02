@@ -1,116 +1,127 @@
-# Open Guard License
+# Open Guard License 2.0
 ## Overview
-| Provision                       | Allowed                                    | Limited / Prohibited                                   |
-|---------------------------------|--------------------------------------------|-------------------------------------------------------|
-| **Trademark Use**               | Not explicitly covered                     | N/A                                                   |
-| **Open Source Requirement**     | Software must be open source               | Cannot use license for closed-source projects         |
-| **Use Rights**                  | Allowed for any lawful, open-source use    | Cannot use for military, destructive, or illegal uses |
-| **Modification Rights**         | Modifications allowed if documented        | Must clearly mark and attribute modifications         |
-| **Distribution Rights**         | Allowed with original license and attributions | Must retain license and acknowledge modifications    |
-| **Warranty Disclaimer**         | No warranty provided; "AS IS" condition    | All risks and liabilities fall on the user            |
-| **Liability Limitation**        | Not liable for damages or losses           | N/A                                                   |
-| **Attribution Requirement**     | Proper credit to original creator required | Must display attribution prominently                  |
-| **Termination of Rights**       | Rights terminate upon violation of terms   | Must stop using software if license is violated       |
-| **Security of Contributions**   | Best security practices for contributions  | Malicious contributions lead to right revocation      |
-| **Governing Law**               | License governed by creator's jurisdiction | Legal disputes handled in that jurisdiction           |
-| **Future Versions**             | Can use this or future OGL versions        | Future rights do not apply retroactively              |
+| Provision                        | Allowed / Required                                   | Limited / Prohibited                                         |
+|----------------------------------|------------------------------------------------------|--------------------------------------------------------------|
+| **Open Source Requirement**      | Source code must be public and open source           | Cannot be used for closed-source projects                    |
+| **Use Rights**                   | Use for lawful, ethical, and authorized purposes     | Unauthorized, destructive, or harmful uses prohibited        |
+| **Modification Rights**          | Modifications allowed if documented and marked       | Must comply with ethical use and security standards          |
+| **Distribution Rights**          | Distribution allowed with original license and attribution | Cannot remove license; must indicate modifications        |
+| **Prohibited Uses**              | Ethical hacking, authorized penetration testing      | No use for military, invasive surveillance, or illegal activities |
+| **Ethical Use Requirement**      | Must have explicit authorization from system owner   | Unauthorized use or unsanctioned hacking strictly prohibited |
+| **Security Standards**           | Adhere to high-security practices in contributions   | Contributions with vulnerabilities or malicious code         |
+| **Attribution Requirement**      | Must credit original creators visibly                | N/A                                                          |
+| **Acknowledgment of Modifications** | Modifications must be labeled with description of changes | N/A                                                     |
+| **Compliance with Third-Party Licenses** | Must follow terms of third-party libraries         | Cannot violate third-party licenses                          |
+| **Termination of Rights**        | Rights terminate upon license violation              | Must cease using and distributing Software if license violated |
+| **Security of Contributions**    | Secure coding practices required                     | Malicious or insecure contributions result in rights revocation |
+| **License Enforcement**          | License creators may enforce terms                   | N/A                                                          |
+| **Governing Law**                | Governed by creator’s jurisdiction                   | Legal disputes handled in that jurisdiction                  |
+| **Future Versions**              | May use this or future OGL versions                  | Future rights do not apply retroactively                     |
+| **User Responsibility**          | User responsible for lawful and ethical compliance   | Creators not liable for misuse                               |
+| **Compliance with Community Standards** | Encouraged to follow ethical hacking community standards | N/A                                                     |
 ## License
-Open Guard License (OGL) Version 1.0
+### Open Guard License (OGL) Version 2.0
 
-This Open Guard License (OGL) Version 1.0 governs the use, modification, and distribution of software (hereinafter referred to as "the Software") released under this license. By using, modifying, copying, or distributing the Software, you agree to comply with the terms outlined in this license. This license is structured to provide comprehensive legal protection for creators and contributors while promoting transparency and responsible collaboration.
+This Open Guard License (OGL) Version 2.0 governs the use, modification, and distribution of software (the "Software") released under this license. By using, modifying, copying, or distributing the Software, you agree to comply with the terms outlined in this license. This version strengthens protections against misuse and mandates responsible and ethical use.
 
-IMPORTANT: This license can only be used for open source projects. Any project licensed under this license must be open source, meaning that the source code must be made available to the public and the software must be freely usable, modifiable, and distributable.
+### 1. General Open Source Requirement
 
-1. Disclaimer of Warranty and Limitation of Liability
+This license may only be used for open source projects. The source code must be made available to the public, allowing the Software to be freely usable, modifiable, and distributable, provided all conditions of this license are met.
 
-1.1 Warranty Disclaimer:
-The Software is provided "AS IS" without any warranties of any kind, either express, implied, or statutory. This includes, but is not limited to, warranties of merchantability, fitness for a particular purpose, title, and non-infringement. By using the Software, you acknowledge and agree that:
+### 2. Disclaimer of Warranty and Limitation of Liability
 
-    The creators, contributors, and any associated parties are not responsible for any form of warranty, and all warranties are explicitly disclaimed to the fullest extent permitted by law.
-    No assurances are made that the Software will meet your requirements, function without interruption, or be error-free. The user assumes all risks associated with the use of the Software.
+2.1 **Warranty Disclaimer**:  
+The Software is provided "AS IS," without any warranty, either express, implied, or statutory, including but not limited to the warranties of merchantability, fitness for a particular purpose, title, and non-infringement. By using the Software, you agree that:
+   - The creators and contributors disclaim all warranties to the fullest extent permitted by law.
+   - There is no guarantee that the Software will meet your requirements or function without interruption.
 
-1.2 Limitation of Liability:
-In no event shall the creators, contributors, or any affiliated parties be liable for any damages of any kind arising from the use or inability to use the Software, including but not limited to direct, indirect, incidental, consequential, special, punitive, or exemplary damages. This includes, but is not limited to:
+2.2 **Limitation of Liability**:  
+The creators and contributors shall not be liable for any damages arising from the use or inability to use the Software, including direct, indirect, incidental, consequential, special, punitive, or exemplary damages. This includes, but is not limited to, loss of data, system corruption, or security breaches.
 
-    Data loss
-    System corruption
-    Malfunction of devices
-    Security breaches, viruses, or malware
-    Financial or commercial loss
+### 3. Grant of Rights
 
-The creators and contributors bear no responsibility for any damages resulting from the use, alteration, distribution, or modification of the Software, even if such parties have been advised of the possibility of such damages.
+3.1 **Right to Use**:  
+You are granted a worldwide, royalty-free, non-exclusive license to use the Software for lawful, ethical, and open-source purposes. This license is subject to the ethical guidelines in Section 5.
 
-2. Grant of Rights
+3.2 **Right to Modify**:  
+You are permitted to modify the Software and create derivative works, provided that all modifications are clearly marked, documented, and made available under this license. Modifications must comply with the ethical use restrictions in Section 5.
 
-2.1 Right to Use:
-You are granted a worldwide, royalty-free, non-exclusive license to use the Software for any lawful purpose, provided that such use is consistent with the principles of open source.
+3.3 **Right to Distribute**:  
+You may distribute copies of the original and modified Software under the following conditions:
+   - The original copyright notice and this license must accompany all copies and modifications.
+   - Modifications must be clearly marked and acknowledged, with a description of changes.
+   - Any distributed version must retain this license to ensure it remains open and accessible.
 
-2.2 Right to Modify:
-You are permitted to modify the Software, including creating derivative works based on the original Software, provided that all modifications are clearly marked, documented, and made available under the same license.
+### 4. Prohibited and Restricted Uses
 
-2.3 Right to Distribute:
-You may distribute copies of the original Software and any modified versions under the following conditions:
+The Software must not be used for any military, destructive, illegal, or unethical purposes, including but not limited to:
+   - **Weapons Development**: Development, testing, or deployment of weaponry or related technologies.
+   - **Invasive Surveillance**: Any form of unauthorized data collection or surveillance.
+   - **Malicious Activity**: Hacking, intrusion, or penetration testing without explicit authorization from the owner of the target system.
+   - **Privacy Invasion**: Unauthorized access or monitoring of individuals' private data or systems.
 
-    The original copyright notice and this license must be included with all copies and modifications.
-    All modifications must be clearly marked and acknowledged, and a description of the changes must be provided.
-    Any distributed version of the Software, whether modified or unmodified, must retain this license, ensuring it remains open and accessible.
+Violation of these restrictions may result in the immediate termination of rights under this license (see Section 8).
 
-3. Prohibited Uses
+### 5. Ethical Use Requirements
 
-The Software must not be used for any military, destructive, harmful, or illegal purposes. This includes, but is not limited to:
+5.1 **Authorized Use Only**:  
+The Software may only be used for testing and securing systems with explicit, documented authorization from the system owner. Unauthorized use, even for "ethical" purposes, is strictly prohibited.
 
-    Weapons development
-    Surveillance or espionage
-    Unauthorized data collection or invasion of privacy
+5.2 **Security Standards**:  
+Users and contributors must adhere to best security practices to avoid introducing vulnerabilities or malicious code. Any modifications or contributions must be carefully reviewed to maintain the Software's integrity.
 
-If the Software is used for harmful purposes, all liability rests solely with the user. The creators and contributors bear no responsibility for any consequences resulting from such use, regardless of intent.
+5.3 **Transparency and Accountability**:  
+All contributions and distributions must include documentation clarifying intended ethical uses and discourage any form of misuse. The documentation should be visible and clear to all users.
 
-4. Attribution and Acknowledgment
+### 6. Attribution and Modification Acknowledgment
 
-4.1 Attribution Requirements:
-When redistributing the Software or any derivative works, you must provide proper attribution to the original creator(s). This attribution must be prominently displayed in a visible area, both in the Software and in any associated documentation.
+6.1 **Attribution Requirements**:  
+When redistributing the Software or derivative works, you must prominently credit the original creator(s) in both the Software and any associated documentation.
 
-4.2 Acknowledgment of Modifications:
-Forks or modifications of the Software must clearly indicate that the Software has been modified, along with a description of the nature of the changes and the party responsible for such changes.
+6.2 **Acknowledgment of Modifications**:  
+Modifications must be clearly identified as such, including a description of changes and the party responsible for the modification.
 
-5. Termination of Rights
+### 7. Compliance with Third-Party Licenses
 
-5.1 Conditions of Termination:
-This license and all rights granted under it shall automatically terminate if you:
+If the Software incorporates third-party components or libraries, you are responsible for ensuring compliance with those licenses. The creators and contributors bear no responsibility for violations of third-party licenses arising from your use.
 
-    Violate any of the terms and conditions set forth in this license.
-    Distribute or use the Software in violation of applicable laws or for any illegal or harmful purposes.
+### 8. Termination of Rights
 
-Upon termination, you must cease using, distributing, and modifying the Software and destroy all copies of the Software in your possession or control.
+8.1 **Conditions of Termination**:  
+Your rights under this license will automatically terminate if you:
+   - Violate any terms in this license, particularly the ethical and authorized use guidelines.
+   - Distribute or use the Software in ways that contravene applicable laws or ethical standards.
 
-6. Security and Enforcement Provisions
+Upon termination, you must cease using, distributing, and modifying the Software and destroy all copies in your possession.
 
-6.1 Security of Contributions:
-Contributors must adhere to best security practices when submitting modifications or forks. Any contributions made with malicious intent, or which compromise the integrity of the Software, will result in immediate revocation of all rights under this license and may result in legal action.
+### 9. Security and Enforcement Provisions
 
-6.2 Enforcement of License:
-The creator(s) reserve the right to enforce the provisions of this license and take appropriate legal action against any party that violates the terms and conditions outlined herein.
+9.1 **Security of Contributions**:  
+All contributors must ensure their code meets high-security standards. Contributions with malicious intent or that compromise the Software's security will result in an immediate revocation of all rights under this license and may lead to legal action.
 
-7. Severability and Governing Law
+9.2 **License Enforcement**:  
+The creator(s) reserve the right to take legal action against any party that violates the license terms, including unauthorized use or malicious contributions.
 
-7.1 Severability:
-If any provision of this license is found to be invalid or unenforceable by a court of competent jurisdiction, such provision shall be severed from this license, and the remaining provisions shall remain in full force and effect.
+### 10. Governing Law and Jurisdiction
 
-7.2 Governing Law:
-This license shall be governed by and construed in accordance with the laws of the jurisdiction in which the original creator(s) reside. Any legal disputes arising out of or related to this license shall be brought exclusively before the courts of that jurisdiction.
+10.1 **Severability**:  
+If any provision of this license is found invalid or unenforceable, that provision shall be severed, and the remaining provisions shall remain in effect.
 
-8. Future License Versions
+10.2 **Governing Law**:  
+This license shall be governed by the laws of the jurisdiction in which the original creator(s) reside. Legal disputes related to this license will be addressed exclusively in the courts of that jurisdiction.
 
-The original creator(s) reserve the right to publish new or revised versions of this Open Guard License. Each version will be designated by a distinguishing version number. Users may continue to use the Software under this version or adopt any future versions of the OGL. However, the rights under future versions may not be applied retroactively.
+### 11. Future License Versions
 
-9. Entire Agreement
+The original creator(s) reserve the right to publish new or revised versions of the Open Guard License. Users may continue to use this version or adopt any future versions, although future rights do not apply retroactively.
 
-This license constitutes the entire agreement between you, the user, and the creator(s) of the Software. Any prior agreements, oral or written, regarding the Software are superseded by this license.
+### 12. Entire Agreement
 
-10. User Responsibility and Compliance
+This license constitutes the entire agreement between you, the user, and the creator(s) of the Software. Any previous agreements regarding the Software are superseded by this license.
 
-10.1 User Responsibility:
-As a user of the Software, you are solely responsible for ensuring that your use of the Software complies with all applicable laws, regulations, and third-party agreements. The creators and contributors of the Software will not be held liable for any illegal or unauthorized use of the Software.
+### 13. User Responsibility and Compliance
 
-10.2 Compliance with Third-Party Licenses:
-If the Software incorporates third-party components or libraries, you are responsible for ensuring compliance with their respective licenses. The creators and contributors are not liable for any violations of third-party licenses arising from your use of the Software.
+13.1 **User Responsibility**:  
+You are solely responsible for ensuring your use of the Software complies with all applicable laws and ethical standards. The creators and contributors bear no liability for misuse.
+
+13.2 **Compliance with Community Standards**:  
+Users are encouraged to follow the ethical standards and practices upheld by the broader ethical hacking community.
